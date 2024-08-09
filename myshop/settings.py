@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'prodect',
     'orders',
     'customers',
-    'bootstrap4',
+   # 'bootstrap4',
 ]
 
 MIDDLEWARE = [
